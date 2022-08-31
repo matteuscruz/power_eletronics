@@ -1,0 +1,30 @@
+Circuit: * C:\Users\Windows 10 x64\Desktop\Projetos\Power-Eletronics\Boost-Week-1-Course-1\boost.asc
+
+Per .tran options, skipping operating point for transient analysis.
+Ignoring empty pin current: Ix(u1:1)
+Ignoring empty pin current: Ix(u1:2)
+Ignoring empty pin current: Ix(u1:3)
+Ignoring empty pin current: Ix(u1:4)
+Ignoring empty pin current: Ix(u1:5)
+Ignoring empty pin current: Ix(u2:vc)
+Heightened Def Con from 0.00034 to 0.000340001
+Heightened Def Con from 0.00068 to 0.000680001
+Heightened Def Con from 0.00069 to 0.00069
+
+Date: Wed Aug 31 15:41:03 2022
+Total elapsed time: 15.525 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2644292
+traniter = 2644292
+tranpoints = 394203
+accept = 222206
+rejected = 172000
+matrix size = 38
+fillins = 0
+solver = Normal
+Matrix Compiler1: 1.29 KB object code size  0.3/0.2/[0.1]
+Matrix Compiler2: 2.67 KB object code size  0.2/0.3/[0.1]
+
